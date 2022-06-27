@@ -1,0 +1,24 @@
+
+
+@media(min-width : 768px){
+    .wish_text{
+        text-align: center;
+    }
+
+    .login_css{
+        margin-top: 23vh;
+    }
+    .register_css{
+        margin-top : 23vh;
+    }
+}
+
+
+@media(max-width : 768px){
+    .login_css{
+        margin-top: 20vh;
+    }
+    .register_css{
+        margin-top: 20vh;
+    }
+}
